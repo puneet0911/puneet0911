@@ -8,7 +8,7 @@
 
 - **Frontend:** React, Angular, HTML5, CSS3, TypeScript  
 - **Backend:** Node.js, Spring Boot, Express  
-- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, CI/CD  
 - **Other Tools:** Git, Webpack, ESLint, FFmpeg, REST APIs
 
@@ -37,7 +37,7 @@
 ## 📫 Connect with Me
 
 - 🌐 [Portfolio](https://your-portfolio.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/puneet-sharma-177a8a111/)  
 - 🐦 [Twitter](https://twitter.com/your-handle)  
 - 📧 Email: your.email@example.com
 
