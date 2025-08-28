@@ -40,7 +40,7 @@
 - 🌐 [Portfolio](https://your-portfolio.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/puneet-sharma-177a8a111/)  
 - 🐦 [Twitter](https://twitter.com/your-handle)  
-- 📧 Email: your.email@example.com
+- 📧 Email: puneetpremsharma@hotmail.com
 
 ---
 
