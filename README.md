@@ -27,10 +27,11 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Video Upload Platform** | Chunked uploads, S3 storage, FFmpeg processing | React, Node.js, AWS |
+| **Money Net Int** | Chunked uploads, S3 storage, concurrent request | Angular, Node.js, AWS |
 | **Search Engine** | Deep crawl + keyword indexing | Node.js, PostgreSQL |
-| **Mobile Auth UI** | Clean sign-in screen with Material UI | React Native, Expo |
-| **AI Integration** | Smart features powered by OpenAI APIs | Node.js, Express |
+| **Health Care** | Hospital management dashboard | Angular, NodeJS, Mysql|
+| **TPN** | Telecom inventory management dashboard  | ReactJS, Node.js, Express |
+| **AddresSQ** | Search address for the internet service and keyword indexing  | ReactJS, Node.js, Express, PostGreSQL, AWS |
 
 ---
 
