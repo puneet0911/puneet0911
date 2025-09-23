@@ -37,9 +37,7 @@
 
 ## 📫 Connect with Me
 
-- 🌐 [Portfolio](https://your-portfolio.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/puneet-sharma-177a8a111/)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
 - 📧 Email: puneetpremsharma@hotmail.com
 
 ---
