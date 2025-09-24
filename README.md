@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Expertise
 
-- **Frontend:** React, Angular, HTML5, CSS3, TypeScript  
+- **Frontend:** React, Angular, TypeScript, JavaScript  
 - **Backend:** Node.js, Java Spring Boot, Express  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, CI/CD  
